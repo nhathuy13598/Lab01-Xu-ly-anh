@@ -47,7 +47,7 @@ class Converter
 	0: nếu chuyển thành công
 	1: nếu chuyển thất bại (không đọc được ảnh input,...)
 	*/
-	int HSV2RGB(const Mat& sourceImage, Mat& destinationImage) {}
+	int HSV2RGB(const Mat& sourceImage, Mat& destinationImage);
 
 
 
